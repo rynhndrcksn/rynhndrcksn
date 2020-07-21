@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello!
+
+I am a Junior in the Software Development BAS at Green River College. I believe that privacy, and encryption are human rights that should be protected as such and should be implemented in every consumer product.
+
+_I have __no__ clue what else to put here_
 
 <!--
 **rynhndrcksn/rynhndrcksn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
