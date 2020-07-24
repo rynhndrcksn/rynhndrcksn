@@ -1,6 +1,6 @@
 ## Hello!
 
-I am a Junior in the Software Development BAS at Green River College. I believe that privacy, and encryption are human rights that should be protected as such and should be implemented in every consumer product.
+I am a Junior in the Software Development BAS. I believe that privacy, and encryption are human rights that should be protected as such and should be implemented in every consumer product.
 
 _I have __no__ clue what else to put here_
 
