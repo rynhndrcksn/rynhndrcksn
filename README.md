@@ -1,20 +1,26 @@
-## Hello!
+# Ryan Hendrickson - @rynhndrcksn
 
-I am a Junior in the Software Development BAS. I believe that privacy, and encryption are human rights that should be protected as such and should be implemented in every consumer product.
 
-_I have __no__ clue what else to put here_
+I am a Junior in a Software Development Bachelors of Applied Science. I believe that privacy, and encryption are human rights that should be protected as such and should be implemented in every consumer product. My career path is currently undecided, though I find embedded systems the most interesting. MFeel free to reach out if you have questions or I may be able to collaborate with you on something.
 
-<!--
-**rynhndrcksn/rynhndrcksn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently Learning:
+- C through [Effective C](https://nostarch.com/Effective_C).
+- Assembly (through a systems class in Fall 2020).
 
-Here are some ideas to get you started:
+### Comfortable in:
+- Java
+- HTML5
+- CSS3
+- JavaScript (Vanilla + JQuery)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Setup:
+- Custom built desktop running [Pop!_OS 20.04](https://pop.system76.com/). Here are the [Specs](https://pcpartpicker.com/user/leaderelrond/saved/smtL23).
+- Lenovo ThinkPad X1 Carbon Gen 6 running [Pop!_OS 20.04](https://pop.system76.com/).
+
+### IDE's:
+- [VSCodium](https://vscodium.com/). It is Visual Studio Code with the Microsoft telemetry/tracking stripped.
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) since school requires it.
+
+### Connect:
+- [Twitter](https://twitter.com/leaderelrond).
+- [LinkedIn](https://www.linkedin.com/in/rynhndrcksn/).
