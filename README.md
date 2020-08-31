@@ -14,7 +14,7 @@ I am a Junior in a Software Development Bachelors of Applied Science. I believe 
 - JavaScript (Vanilla + JQuery)
 
 ### Setup:
-- Custom built desktop running [Pop!_OS 20.04](https://pop.system76.com/). Here are the [Specs](https://pcpartpicker.com/user/leaderelrond/saved/smtL23).
+- Custom built desktop running Windows 10. Here are the [Specs](https://pcpartpicker.com/user/leaderelrond/saved/smtL23).
 - Lenovo ThinkPad X1 Carbon Gen 6 running [Pop!_OS 20.04](https://pop.system76.com/).
 
 ### IDE's:
