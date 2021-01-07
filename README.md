@@ -7,7 +7,8 @@ Due to the ongoing mistreatment of those under U.S. Immigration & Customs Enforc
 I am a student in a Software Development Bachelors of Applied Science. I believe that privacy, and encryption are human rights that should be protected as such and should be implemented in every consumer product. My career path is currently undecided, though I find embedded systems the most interesting. Feel free to reach out if you have questions or I may be able to collaborate with you on something.
 
 ### Currently Learning:
-- Data Stuctures & Algorithms in Java (Winter 2021)
+- Data Stuctures in Java (Winter 2021)
+- Back-end frameworks using [Fat-Free](https://fatfreeframework.com/3.6/home) (We learn Fat-Free as it isn't overwhelming and allows us to understand the concepts without getting bogged down by using a larger/more complicated framework).
 
 ### Comfortable in:
 - Java
@@ -20,6 +21,7 @@ I am a student in a Software Development Bachelors of Applied Science. I believe
     - Ajax
 - Back End Web Development
   - PHP 7
+    - Fat-Free
   - MySQL
 
 ### Setup:
@@ -29,8 +31,8 @@ I am a student in a Software Development Bachelors of Applied Science. I believe
 
 ### IDE's:
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) for Java.
-- [PHPStorm](https://www.jetbrains.com/phpstorm/) for more advanced web project.
-- [VSCodium](https://vscodium.com/) for basic web projects, C++, and as a general text editor.
+- [PHPStorm](https://www.jetbrains.com/phpstorm/) for my projects with school.
+- [VSCodium](https://vscodium.com/) for personal web projects, C++, C, and as a general text editor.
 
 ### Connect:
 - [GitLab](https://gitlab.com/rynhndrcksn).
