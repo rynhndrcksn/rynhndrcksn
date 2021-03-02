@@ -4,7 +4,7 @@ Due to the ongoing mistreatment of those under U.S. Immigration & Customs Enforc
 
 **NOTE**: My college requires the use of GitHub for git repo's, so my school projects will be listed here as well as my GitLab.
 
-I am a student in a Software Development Bachelors of Applied Science. I believe that privacy, and encryption are human rights that should be protected as such and should be implemented in every consumer product. My career path is currently undecided, though I find embedded systems the most interesting. Feel free to reach out if you have questions or I may be able to collaborate with you on something.
+I am a student in a Software Development Bachelors of Applied Science. I believe that privacy and encryption are human rights that should be protected as such and should be implemented in every consumer product. My career path is currently undecided, though I find embedded systems and full stack web dev interesting. Feel free to reach out if you have questions or I may be able to collaborate with you on something.
 
 ### Currently Learning:
 - Data Stuctures in Java (Winter 2021)
