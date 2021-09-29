@@ -4,33 +4,34 @@ My college requires the use of GitHub for git repo's, so my school projects will
 
 I am a student in a Software Development Bachelors of Applied Science. I believe that privacy and encryption are human rights that should be protected as such and should be implemented in every consumer product. My career path is currently undecided, though I find embedded systems and full stack web dev interesting. Feel free to reach out if you have questions or I may be able to collaborate with you on something.
 
-### Currently Learning: Spring 2021
-- Algorithms in Java
-- Agile Development
+### Currently Learning: Fall 2021
+- Software as a Service (.NET/ASP.NET)
+- Design Patterns and Principles (Java Spring)
 
 ### Comfortable in:
 - Java
+- C#
 - Front End Web Development
   - HTML5
   - CSS3
-    - Bootstrap 4/5
+    - Bootstrap 5
   - JavaScript
     - JQuery
     - Ajax
 - Back End Web Development
+  - ASP.NET
   - PHP 7
     - [Fat-Free Framework](https://fatfreeframework.com/3.6/home)
   - MySQL
 
 ### Setup:
 - 2020 M1 MacBook Pro.
-- Custom built desktop running Windows 10. Here are the [Specs](https://pcpartpicker.com/user/leaderelrond/saved/smtL23).
-- Lenovo ThinkPad X1 Carbon Gen 6 running [Manjaro XFCE](https://manjaro.org/).
+- Custom built desktop dual booting [Manjaro XFCE](https://manjaro.org/) and Windows 10. Here are the [Specs](https://pcpartpicker.com/user/leaderelrond/saved/smtL23).
 
 ### IDE's:
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) for Java.
-- [PHPStorm](https://www.jetbrains.com/phpstorm/) for my projects with school.
-- [VSCodium](https://vscodium.com/) for personal web projects, C++, C, and as a general text editor.
+- [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/) for C#/.NET.
+- [VSCodium](https://vscodium.com/) for personal web projects, dabbling on other languages, and as a general text editor.
 
 ### Connect:
 - [GitLab](https://gitlab.com/rynhndrcksn).
