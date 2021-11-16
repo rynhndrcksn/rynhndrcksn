@@ -19,14 +19,15 @@ I am a student in a Software Development Bachelors of Applied Science. I believe
     - JQuery
     - Ajax
 - Back End Web Development
-  - ASP.NET
+  - .NET 5 MVC/MVVM
+  - Azure App Service
+  - Spring Boot
   - PHP 7
     - [Fat-Free Framework](https://fatfreeframework.com/3.6/home)
-  - MySQL
 
 ### Setup:
 - 2020 M1 MacBook Pro.
-- Custom built desktop dual booting [Manjaro XFCE](https://manjaro.org/) and Windows 10. Here are the [Specs](https://pcpartpicker.com/user/leaderelrond/saved/smtL23).
+- Custom built desktop dual booting [EndeavourOD](https://endeavouros.com/) and Windows 10. Here are the [Specs](https://pcpartpicker.com/user/leaderelrond/saved/smtL23).
 
 ### IDE's:
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) for Java.
