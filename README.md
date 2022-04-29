@@ -1,8 +1,8 @@
 # Ryan Hendrickson - @rynhndrcksn
 I am currently a student in a Software Development Bachelors of Applied Science. I believe that privacy and encryption are human rights that should be protected as such and should be implemented in every consumer product. While I find many aspects of software interesting, I have gravitated towards back-end/full stack development.
 
-## Comfortable in:
-- C#, Java, and PHP
+## Experience in:
+- C#, PHP, and Java
 - Front End Web Development
   - HTML5
   - CSS3
@@ -22,7 +22,8 @@ I am currently a student in a Software Development Bachelors of Applied Science.
 
 ## IDE's:
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) for Java.
-- [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/) for C#/.NET.
+- [Rider](https://www.jetbrains.com/rider/) for C#/.NET (primary).
+- [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/) for C#/.NET (secondary).
 - [VSCodium](https://vscodium.com/) for personal web projects, dabbling on other languages, and as a general text editor.
 
 ## Connect:
