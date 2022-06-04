@@ -1,5 +1,5 @@
 # Ryan Hendrickson - @rynhndrcksn
-I am currently a student in a Software Development Bachelors of Applied Science. I believe that privacy and encryption are human rights that should be protected as such and should be implemented in every consumer product. While I find many aspects of software interesting, I have gravitated towards back-end/full stack development.
+I am a recent graduate (June 17, 2022) with a BAS in Software Development. I have always gravitated towards backend/full stack development, and enjoy learning new languages/libraries and diving deeper into ones I already know. Currently learning Blazor and Typescript.
 
 ## Experience in:
 - C#, PHP, and Java
@@ -7,7 +7,7 @@ I am currently a student in a Software Development Bachelors of Applied Science.
   - HTML5
   - CSS3
     - Bootstrap 4/5
-  - JavaScript
+  - JavaScript/TypeScript 
     - JQuery
     - Ajax
     - Fetch
@@ -27,5 +27,7 @@ I am currently a student in a Software Development Bachelors of Applied Science.
 - [VSCodium](https://vscodium.com/) for personal web projects, dabbling on other languages, and as a general text editor.
 
 ## Connect:
+- [Codecademy](https://www.codecademy.com/profiles/rynhndrcksn).
 - [GitLab](https://gitlab.com/rynhndrcksn).
+- [LeetCode](https://leetcode.com/rynhndrcksn/).
 - [LinkedIn](https://www.linkedin.com/in/rynhndrcksn/).
