@@ -1,30 +1,12 @@
 # Ryan Hendrickson - @rynhndrcksn
-I am a recent graduate (June 17, 2022) with a BAS in Software Development. I have always gravitated towards backend/full stack development, and enjoy learning new languages/libraries and diving deeper into ones I already know. Currently learning Blazor and Typescript.
+Web Developer that works in .NET, PHP, and JS/TS mostly, while dabbling in Go and DevOps.
 
-## Experience in:
-- C#, PHP, and Java
-- Front End Web Development
-  - HTML5
-  - CSS3
-    - Bootstrap 4/5
-  - JavaScript/TypeScript 
-    - JQuery
-    - Ajax
-    - Fetch
-- Back End Web Development
-  - [.NET 6 MVC/Razor/Blazor](https://dotnet.microsoft.com/en-us/)
-  - [Spring Boot](https://spring.io/projects/spring-boot)
-  - [Fat-Free Framework](https://fatfreeframework.com/)
+## Currently working on:
+- Not much besides getting settled in my new job.
 
 ## Setup:
 - 2020 M1 MacBook Pro.
-- Custom built desktop running Windows 10. Here are the [Specs](https://pcpartpicker.com/user/leaderelrond/saved/smtL23).
-
-## IDE's:
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) for Java.
-- [Rider](https://www.jetbrains.com/rider/) for C#/.NET (primary).
-- [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/) for C#/.NET (secondary).
-- [VSCodium](https://vscodium.com/) for personal web projects, dabbling on other languages, and as a general text editor.
+- Custom built desktop running Windows 10 and Pop!_OS. Here are the [Specs](https://pcpartpicker.com/user/leaderelrond/saved/smtL23).
 
 ## Connect:
 - [Codecademy](https://www.codecademy.com/profiles/rynhndrcksn).
