@@ -17,7 +17,7 @@
 
 ## :man_technologist: About me:
 I'm a full-stack developer in Washington State, USA.
-- :seedling: Learning Go/DevOps stuff 🥳
+- :seedling: Learning Go and DevOps.
 - :speech_balloon: I believe that privacy, and encryption are human rights that should be protected as such and should be implemented in every product to help preserve these rights.
 
 ## :hammer_and_wrench: Languages, Frameworks, and Tools:
