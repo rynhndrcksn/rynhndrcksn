@@ -14,12 +14,24 @@
   </a> -->
 </div>
 
-## :man_technologist: About me:
-I'm a full-stack developer in Washington State, USA.
-- :seedling: Expanding my knowledge in .NET Core and PHP frameworks (Symfony and Drupal).
-- :speech_balloon: I believe that privacy, and encryption are human rights that should be protected as such and should be implemented in every product to help preserve these rights.
+:speech_balloon: I believe that privacy, and encryption are human rights that should be protected as such and should be implemented in every product to help preserve these rights.
 
-## :hammer_and_wrench: Languages, Frameworks, and Tools:
+## :man_technologist: About me:
+```yaml
+name: Ryan Hendrickson
+located_in: Washington State, USA.
+current_job: Full Stack Developer
+fields_of_interests:
+  - Web Development
+  - Servers
+  - DevOps
+  - CLI
+technical_background:
+  - Web Developer
+currently_learning: Webpack, Symfony, and Cypress
+```
+
+## :hammer_and_wrench: Some Tools I Have Used and Learned:
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -27,9 +39,8 @@ I'm a full-stack developer in Washington State, USA.
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="CSharp" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang alt="Golang" width="40" height="40"/>&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" title="Drupal" alt="Drupal" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
