@@ -2,7 +2,7 @@
   <h1>Ryan Hendrickson - @TahomaTech</h1>
 </div>
 
-I'm Ryan and I was born and raised in Washington State! I find most parts about tech very interesting, which makes it easy for me to jump into new things, whether it's a new language, framework, fixing CI/CD pipelines, writing a bash script, or even trying to figure out why a server is acting up. 
+I'm Ryan and I was born and raised in Washington State! I find most parts about tech very interesting, which makes it easy for me to jump into new things, whether it's a new language, framework, fixing CI/CD pipelines, writing some bash scripts, or trying to figure out why a server is acting up. 
 
 I don't write much code outside of work, but that is something I am trying to change 😅
 
