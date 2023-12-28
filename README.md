@@ -9,17 +9,20 @@ I don't write much code outside of work, but that is something I am trying to ch
 :speech_balloon: I believe that privacy and encryption are human rights that should be protected as such and should be implemented in every product to help preserve these rights.
 
 ## 👨‍💻 Current Projects
+- [My MacOS dotfiles](https://github.com/rynhndrcksn/dotfiles-macos) (ongoing).
 - Personal portfolio site. **TBD**
-- Gift list website. **TBD**
 
 ## ⚙ Recent Projects
-- [My MacOS dotfiles](https://github.com/rynhndrcksn/dotfiles-macos) are one of the main things I've been working on these days.
+- N/A
 
 ## ✏️ Writing
 - Really the only place will be my personal website, where I plan to eventually have a tech blog up and running. Link to be provided later.
 
 ## 🌌 Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
+
+## 🕸️ Around The Web
+- [Dev.to](https://dev.to/rynhndrcksn).
 
 ## :fire: Some Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahomaTech&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
