@@ -25,6 +25,6 @@ I don't write much code outside of work, but that is something I am trying to ch
 - [Dev.to](https://dev.to/rynhndrcksn).
 
 ## :fire: Some Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahomaTech&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rynhndrcksn&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahomaTech&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rynhndrcksn&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
