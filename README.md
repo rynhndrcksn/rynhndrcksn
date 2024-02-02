@@ -2,15 +2,13 @@
   <h1>Ryan Hendrickson - @rynhndrcksn</h1>
 </div>
 
-I'm Ryan and I was born and raised in Washington State! I find most parts about tech very interesting, which makes it easy for me to jump into new things, whether it's a new language, framework, fixing CI/CD pipelines, writing some bash scripts, or trying to figure out why a server is acting up. 
-
-I don't write much code outside of work, but that is something I am trying to change 😅
+I'm Ryan and I was born and raised in Washington State! I find most parts about tech very interesting, which makes it easy for me to jump into new things, whether it's a new language, framework, CI/CD, writing some scripts, or trying to figure out why a server is acting up. 
 
 :speech_balloon: I believe that privacy and encryption are human rights that should be protected as such and should be implemented in every product to help preserve these rights.
 
 ## 👨‍💻 Current Projects
-- [My MacOS dotfiles](https://github.com/rynhndrcksn/dotfiles-macos) (ongoing).
-- Personal portfolio site. **TBD**
+- Contributing to [Symfony](https://symfony.com/).
+- [My MacOS dotfiles](https://github.com/rynhndrcksn/dotfiles-macos).
 
 ## ⚙ Recent Projects
 - N/A
@@ -23,6 +21,7 @@ I don't write much code outside of work, but that is something I am trying to ch
 
 ## 🕸️ Around The Web
 - [Dev.to](https://dev.to/rynhndrcksn).
+- [LinkedIn](https://www.linkedin.com/in/rynhndrcksn/).
 
 ## :fire: Some Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rynhndrcksn&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
