@@ -9,6 +9,7 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
 ## Current Projects
 - Contributing to [Symfony](https://symfony.com/) (when I have the time).
+- My [dotfiles](https://github.com/rynhndrcksn/dotfiles).
 
 ## Recent Projects
 - My [MacOS dotfiles](https://github.com/rynhndrcksn/dotfiles-macos).
