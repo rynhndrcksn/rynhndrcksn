@@ -8,6 +8,7 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 :speech_balloon: I believe that privacy and encryption are human rights that should be protected as such and should be implemented in every product to help preserve these rights.
 
 ## Current Projects
+- [Go Starter Site](https://github.com/rynhndrcksn/go-starter-site).
 - Contributing to [Symfony](https://symfony.com/) (when I have the time).
 - My [dotfiles](https://github.com/rynhndrcksn/dotfiles).
 
@@ -15,7 +16,7 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 - My [MacOS dotfiles](https://github.com/rynhndrcksn/dotfiles-macos).
 
 ## Writing
-- Really the only place will be my personal website, where I plan to eventually have a tech blog up and running. Link to be provided later.
+- Really the only place will be my personal website, where I plan to eventually have a tech blog up and running.
 
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
