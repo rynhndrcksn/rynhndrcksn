@@ -5,8 +5,6 @@
 I'm a software engineer that is passionate about open source and creating a welcoming environment for everyone in tech.
 Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
-:speech_balloon: I believe that privacy and encryption are human rights that should be protected as such and should be implemented in every product to help preserve these rights.
-
 ## What I'm currently working on
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -29,7 +27,7 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
 ## Latest followers
 {{range followers 3}}
-- [{{.Name}} ({{.Login}})]({{.URL}})
+- [{{.Login}}]({{.URL}})
 {{- end}}
 
 ## Misc
