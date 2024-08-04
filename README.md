@@ -27,12 +27,6 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 1 week ago) - The Symfony PHP framework
 
-## Latest followers
-
-- [MarkTheDeveloper](https://github.com/MarkTheDeveloper)
-- [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly)
-- [neon-mmd](https://github.com/neon-mmd)
-
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
 
