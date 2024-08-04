@@ -5,8 +5,6 @@
 I'm a software engineer that is passionate about open source and creating a welcoming environment for everyone in tech.
 Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
-:speech_balloon: I believe that privacy and encryption are human rights that should be protected as such and should be implemented in every product to help preserve these rights.
-
 ## What I'm currently working on
 
 - [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (today)
@@ -31,9 +29,9 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
 ## Latest followers
 
-- [ (MarkTheDeveloper)](https://github.com/MarkTheDeveloper)
-- [Abdoulaye Ly (Abdoulaye-Ly)](https://github.com/Abdoulaye-Ly)
-- [neon_arch (neon-mmd)](https://github.com/neon-mmd)
+- [MarkTheDeveloper](https://github.com/MarkTheDeveloper)
+- [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly)
+- [neon-mmd](https://github.com/neon-mmd)
 
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
