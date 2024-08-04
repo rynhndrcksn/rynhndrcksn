@@ -25,11 +25,6 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-## Latest followers
-{{range followers 3}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
-
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
 
