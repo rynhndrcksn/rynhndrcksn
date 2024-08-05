@@ -3,8 +3,8 @@ name: Update README
 on:
   push:
   schedule:
-    # Daily at 3am.
-    - cron: "0 3 * * *"
+    # Daily at 9am UTC.
+    - cron: "0 9 * * *"
 
 jobs:
   markscribe:
