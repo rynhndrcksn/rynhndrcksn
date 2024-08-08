@@ -7,8 +7,8 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
 ## What I'm currently working on
 
-- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (2 days ago)
-- [rynhndrcksn/wc-go](https://github.com/rynhndrcksn/wc-go) - A version of the `wc` CLI tool written in Go. (4 days ago)
+- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (3 days ago)
+- [rynhndrcksn/wc-go](https://github.com/rynhndrcksn/wc-go) - A version of the `wc` CLI tool written in Go. (5 days ago)
 - [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (1 week ago)
 
 ## Recent pull requests
