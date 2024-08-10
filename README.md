@@ -7,9 +7,9 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
 ## What I'm currently working on
 
-- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (4 days ago)
-- [rynhndrcksn/wc-go](https://github.com/rynhndrcksn/wc-go) - A version of the `wc` CLI tool written in Go. (6 days ago)
-- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (1 week ago)
+- [rynhndrcksn/zmk-config-corne](https://github.com/rynhndrcksn/zmk-config-corne) - ZMK configuration repo for a 5/6 column Corne (1 day ago)
+- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (5 days ago)
+- [rynhndrcksn/wc-go](https://github.com/rynhndrcksn/wc-go) - A version of the `wc` CLI tool written in Go. (1 week ago)
 
 ## Recent pull requests
 
