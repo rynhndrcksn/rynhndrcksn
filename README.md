@@ -7,13 +7,13 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
 ## What I'm currently working on
 
-- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (2 days ago)
-- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (3 days ago)
+- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (3 days ago)
+- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (4 days ago)
 - [rynhndrcksn/zmk-config-corne](https://github.com/rynhndrcksn/zmk-config-corne) - ZMK configuration repo for a 5/6 column Corne (2 weeks ago)
 
 ## Recent pull requests
 
-- [Docs: Add &#34;Reference&#34; section to readme.md](https://github.com/rynhndrcksn/go-starter-site/pull/2) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (4 weeks ago)
+- [Docs: Add &#34;Reference&#34; section to readme.md](https://github.com/rynhndrcksn/go-starter-site/pull/2) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (1 month ago)
 - [ [AssetMapper] Fix exception if assets directory is missing in production](https://github.com/symfony/symfony/pull/53701) in [symfony/symfony](https://github.com/symfony/symfony) - MERGED (7 months ago)
 - [[AssetMapper] Fix exception if assets directory is missing in production](https://github.com/symfony/symfony/pull/53677) in [symfony/symfony](https://github.com/symfony/symfony) - CLOSED (7 months ago)
 
