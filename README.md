@@ -7,14 +7,14 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
 ## What I'm currently working on
 
-- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (1 day ago)
+- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (2 days ago)
 - [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (1 week ago)
 - [rynhndrcksn/zmk-config-corne](https://github.com/rynhndrcksn/zmk-config-corne) - ZMK configuration repo for a 5/6 column Corne (4 weeks ago)
 
 ## Recent pull requests
 
-- [feat: add postgres support](https://github.com/rynhndrcksn/go-starter-site/pull/9) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (today)
-- [Add initial tests](https://github.com/rynhndrcksn/go-starter-site/pull/7) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (5 days ago)
+- [feat: add postgres support](https://github.com/rynhndrcksn/go-starter-site/pull/9) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (1 day ago)
+- [Add initial tests](https://github.com/rynhndrcksn/go-starter-site/pull/7) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (6 days ago)
 - [build: add Dockerfile support](https://github.com/rynhndrcksn/go-starter-site/pull/5) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (1 week ago)
 
 ## Recent projects
