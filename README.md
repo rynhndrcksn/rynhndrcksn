@@ -7,7 +7,7 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
 ## What I'm currently working on
 
-- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (2 weeks ago)
+- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (3 weeks ago)
 - [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (1 month ago)
 - [rynhndrcksn/zmk-config-corne](https://github.com/rynhndrcksn/zmk-config-corne) - ZMK configuration repo for a 5/6 column Corne (1 month ago)
 
@@ -25,7 +25,7 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
 ## Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 4 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 5 days ago) - The Symfony PHP framework
 
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
