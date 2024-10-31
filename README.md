@@ -15,7 +15,7 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
 - [refactor: Dockerfile and docker commands](https://github.com/rynhndrcksn/go-starter-site/pull/12) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 weeks ago)
 - [feat: add postgres support](https://github.com/rynhndrcksn/go-starter-site/pull/9) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (1 month ago)
-- [Add initial tests](https://github.com/rynhndrcksn/go-starter-site/pull/7) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (1 month ago)
+- [Add initial tests](https://github.com/rynhndrcksn/go-starter-site/pull/7) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 months ago)
 
 ## Recent projects
 
@@ -25,7 +25,7 @@ Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
 ## Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 4 days ago) - The Symfony PHP framework
 
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
