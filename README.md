@@ -3,7 +3,6 @@
 </div>
 
 I'm a software engineer that is passionate about open source and creating a welcoming environment for everyone in tech.
-Some of my favorite technologies to work with include PHP, Symfony, and Go.
 
 ## What I'm currently working on
 
