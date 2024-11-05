@@ -6,21 +6,21 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
+- [rynhndrcksn/redis-csharp](https://github.com/rynhndrcksn/redis-csharp) - Re-creating Redis in C# using CodeCrafters. (1 day ago)
 - [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (2 weeks ago)
 - [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (4 weeks ago)
-- [rynhndrcksn/zmk-config-corne](https://github.com/rynhndrcksn/zmk-config-corne) - ZMK configuration repo for a 5/6 column Corne (2 months ago)
 
 ## Recent pull requests
 
-- [refactor: Dockerfile and docker commands](https://github.com/rynhndrcksn/go-starter-site/pull/12) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 weeks ago)
-- [feat: add postgres support](https://github.com/rynhndrcksn/go-starter-site/pull/9) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (1 month ago)
+- [refactor: Dockerfile and docker commands](https://github.com/rynhndrcksn/go-starter-site/pull/12) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (4 weeks ago)
+- [feat: add postgres support](https://github.com/rynhndrcksn/go-starter-site/pull/9) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 months ago)
 - [Add initial tests](https://github.com/rynhndrcksn/go-starter-site/pull/7) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 months ago)
 
 ## Recent projects
 
+- [rynhndrcksn/redis-csharp](https://github.com/rynhndrcksn/redis-csharp) - Re-creating Redis in C# using CodeCrafters.
 - [rynhndrcksn/wc-go](https://github.com/rynhndrcksn/wc-go) - A version of the `wc` CLI tool written in Go.
 - [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go.
-- [rynhndrcksn/portfolio](https://github.com/rynhndrcksn/portfolio) - Repository containing the source code for my personal website.
 
 ## Latest releases I've contributed to
 
