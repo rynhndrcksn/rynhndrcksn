@@ -6,9 +6,9 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/redis-csharp](https://github.com/rynhndrcksn/redis-csharp) - Re-creating Redis in C# using CodeCrafters. (1 day ago)
-- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (2 weeks ago)
-- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (4 weeks ago)
+- [rynhndrcksn/redis-csharp](https://github.com/rynhndrcksn/redis-csharp) - Re-creating Redis in C# using CodeCrafters. (2 days ago)
+- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (3 weeks ago)
+- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (1 month ago)
 
 ## Recent pull requests
 
