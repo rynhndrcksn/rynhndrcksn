@@ -12,7 +12,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Recent pull requests
 
-- [refactor: Dockerfile and makefile commands](https://github.com/rynhndrcksn/go-starter-site/pull/14) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (6 days ago)
+- [refactor: Dockerfile and makefile commands](https://github.com/rynhndrcksn/go-starter-site/pull/14) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (1 week ago)
 - [refactor: Dockerfile and docker commands](https://github.com/rynhndrcksn/go-starter-site/pull/12) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (1 month ago)
 - [feat: add postgres support](https://github.com/rynhndrcksn/go-starter-site/pull/9) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 months ago)
 
@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 1 week ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 2 weeks ago) - The Symfony PHP framework
 
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
