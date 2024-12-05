@@ -6,7 +6,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/portfolio-hono](https://github.com/rynhndrcksn/portfolio-hono) - Portfolio website built in HonoJS. (2 days ago)
+- [rynhndrcksn/portfolio-hono](https://github.com/rynhndrcksn/portfolio-hono) - Portfolio website built in HonoJS. (3 days ago)
 - [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (2 weeks ago)
 - [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (2 weeks ago)
 
@@ -14,7 +14,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 - [refactor: Dockerfile and makefile commands](https://github.com/rynhndrcksn/go-starter-site/pull/14) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 weeks ago)
 - [refactor: Dockerfile and docker commands](https://github.com/rynhndrcksn/go-starter-site/pull/12) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (1 month ago)
-- [feat: add postgres support](https://github.com/rynhndrcksn/go-starter-site/pull/9) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 months ago)
+- [feat: add postgres support](https://github.com/rynhndrcksn/go-starter-site/pull/9) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 months ago)
 
 ## Recent projects
 
@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 5 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 6 days ago) - The Symfony PHP framework
 
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
