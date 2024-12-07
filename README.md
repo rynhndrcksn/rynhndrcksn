@@ -6,21 +6,21 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/portfolio-hono](https://github.com/rynhndrcksn/portfolio-hono) - Portfolio website built in HonoJS. (1 day ago)
+- [rynhndrcksn/advent-of-code](https://github.com/rynhndrcksn/advent-of-code) - Contains all my various advent of code challenges. (1 day ago)
+- [rynhndrcksn/portfolio-hono](https://github.com/rynhndrcksn/portfolio-hono) - Portfolio website built in HonoJS. (2 days ago)
 - [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (2 weeks ago)
-- [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (2 weeks ago)
 
 ## Recent pull requests
 
 - [refactor: Dockerfile and makefile commands](https://github.com/rynhndrcksn/go-starter-site/pull/14) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 weeks ago)
-- [refactor: Dockerfile and docker commands](https://github.com/rynhndrcksn/go-starter-site/pull/12) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (1 month ago)
+- [refactor: Dockerfile and docker commands](https://github.com/rynhndrcksn/go-starter-site/pull/12) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 months ago)
 - [feat: add postgres support](https://github.com/rynhndrcksn/go-starter-site/pull/9) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 months ago)
 
 ## Recent projects
 
+- [rynhndrcksn/advent-of-code](https://github.com/rynhndrcksn/advent-of-code) - Contains all my various advent of code challenges.
 - [rynhndrcksn/portfolio-hono](https://github.com/rynhndrcksn/portfolio-hono) - Portfolio website built in HonoJS.
 - [rynhndrcksn/wc-go](https://github.com/rynhndrcksn/wc-go) - A version of the `wc` CLI tool written in Go.
-- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go.
 
 ## Latest releases I've contributed to
 
