@@ -6,15 +6,15 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (1 day ago)
-- [rynhndrcksn/advent-of-code](https://github.com/rynhndrcksn/advent-of-code) - Contains all my various advent of code challenges. (2 days ago)
-- [rynhndrcksn/portfolio-hono](https://github.com/rynhndrcksn/portfolio-hono) - Portfolio website built in HonoJS. (5 days ago)
+- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (2 days ago)
+- [rynhndrcksn/advent-of-code](https://github.com/rynhndrcksn/advent-of-code) - Contains all my various advent of code challenges. (3 days ago)
+- [rynhndrcksn/portfolio-hono](https://github.com/rynhndrcksn/portfolio-hono) - Portfolio website built in HonoJS. (6 days ago)
 
 ## Recent pull requests
 
-- [feat: add asset hash appending](https://github.com/rynhndrcksn/go-starter-site/pull/17) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (1 day ago)
-- [feat: add additional &lt;meta&gt; tags to &lt;head&gt;](https://github.com/rynhndrcksn/go-starter-site/pull/16) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 days ago)
-- [chore: update to Go 1.23](https://github.com/rynhndrcksn/go-starter-site/pull/15) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 days ago)
+- [feat: add asset hash appending](https://github.com/rynhndrcksn/go-starter-site/pull/17) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 days ago)
+- [feat: add additional &lt;meta&gt; tags to &lt;head&gt;](https://github.com/rynhndrcksn/go-starter-site/pull/16) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 days ago)
+- [chore: update to Go 1.23](https://github.com/rynhndrcksn/go-starter-site/pull/15) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 days ago)
 
 ## Recent projects
 
