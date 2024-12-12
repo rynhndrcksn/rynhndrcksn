@@ -6,15 +6,15 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (2 days ago)
-- [rynhndrcksn/advent-of-code](https://github.com/rynhndrcksn/advent-of-code) - Contains all my various advent of code challenges. (3 days ago)
-- [rynhndrcksn/portfolio-hono](https://github.com/rynhndrcksn/portfolio-hono) - Portfolio website built in HonoJS. (6 days ago)
+- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (3 days ago)
+- [rynhndrcksn/advent-of-code](https://github.com/rynhndrcksn/advent-of-code) - Contains all my various advent of code challenges. (4 days ago)
+- [rynhndrcksn/portfolio-hono](https://github.com/rynhndrcksn/portfolio-hono) - Portfolio website built in HonoJS. (1 week ago)
 
 ## Recent pull requests
 
-- [feat: add asset hash appending](https://github.com/rynhndrcksn/go-starter-site/pull/17) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 days ago)
-- [feat: add additional &lt;meta&gt; tags to &lt;head&gt;](https://github.com/rynhndrcksn/go-starter-site/pull/16) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 days ago)
-- [chore: update to Go 1.23](https://github.com/rynhndrcksn/go-starter-site/pull/15) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 days ago)
+- [feat: add asset hash appending](https://github.com/rynhndrcksn/go-starter-site/pull/17) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 days ago)
+- [feat: add additional &lt;meta&gt; tags to &lt;head&gt;](https://github.com/rynhndrcksn/go-starter-site/pull/16) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (4 days ago)
+- [chore: update to Go 1.23](https://github.com/rynhndrcksn/go-starter-site/pull/15) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (4 days ago)
 
 ## Recent projects
 
@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 1 week ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 1 day ago) - The Symfony PHP framework
 
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
