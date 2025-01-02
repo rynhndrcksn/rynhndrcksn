@@ -8,7 +8,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 - [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (3 weeks ago)
 - [rynhndrcksn/advent-of-code](https://github.com/rynhndrcksn/advent-of-code) - Contains all my various advent of code challenges. (3 weeks ago)
-- [rynhndrcksn/portfolio-hono](https://github.com/rynhndrcksn/portfolio-hono) - Portfolio website built in HonoJS. (3 weeks ago)
+- [rynhndrcksn/portfolio-hono](https://github.com/rynhndrcksn/portfolio-hono) - Portfolio website built in HonoJS. (4 weeks ago)
 
 ## Recent pull requests
 
@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 2 days ago) - The Symfony PHP framework
 
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
