@@ -6,13 +6,13 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (3 days ago)
+- [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (4 days ago)
 - [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (2 weeks ago)
 - [rynhndrcksn/advent-of-code](https://github.com/rynhndrcksn/advent-of-code) - Contains all my various advent of code challenges. (3 months ago)
 
 ## Recent pull requests
 
-- [feat: update codebase to use Go 1.24](https://github.com/rynhndrcksn/go-starter-site/pull/18) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (1 week ago)
+- [feat: update codebase to use Go 1.24](https://github.com/rynhndrcksn/go-starter-site/pull/18) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 weeks ago)
 - [feat: add asset hash appending](https://github.com/rynhndrcksn/go-starter-site/pull/17) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 months ago)
 - [feat: add additional &lt;meta&gt; tags to &lt;head&gt;](https://github.com/rynhndrcksn/go-starter-site/pull/16) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 months ago)
 
