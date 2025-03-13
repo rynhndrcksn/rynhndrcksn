@@ -6,7 +6,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (5 days ago)
+- [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (6 days ago)
 - [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (2 weeks ago)
 - [rynhndrcksn/advent-of-code](https://github.com/rynhndrcksn/advent-of-code) - Contains all my various advent of code challenges. (3 months ago)
 
