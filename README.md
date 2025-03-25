@@ -12,7 +12,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Recent pull requests
 
-- [feat: update codebase to use Go 1.24](https://github.com/rynhndrcksn/go-starter-site/pull/18) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 weeks ago)
+- [feat: update codebase to use Go 1.24](https://github.com/rynhndrcksn/go-starter-site/pull/18) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (4 weeks ago)
 - [feat: add asset hash appending](https://github.com/rynhndrcksn/go-starter-site/pull/17) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 months ago)
 - [feat: add additional &lt;meta&gt; tags to &lt;head&gt;](https://github.com/rynhndrcksn/go-starter-site/pull/16) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 months ago)
 
