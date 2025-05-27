@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1), 2 days ago) - The Symfony PHP framework
 
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
