@@ -6,14 +6,14 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (3 days ago)
+- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (4 days ago)
 - [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (3 months ago)
 - [rynhndrcksn/advent-of-code](https://github.com/rynhndrcksn/advent-of-code) - Contains all my various advent of code challenges. (7 months ago)
 
 ## Recent pull requests
 
-- [Add `govulncheck` to CI/CD/makefile](https://github.com/rynhndrcksn/go-starter-site/pull/20) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 days ago)
-- [Remove the `httprouter` dependency.](https://github.com/rynhndrcksn/go-starter-site/pull/19) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 days ago)
+- [Add `govulncheck` to CI/CD/makefile](https://github.com/rynhndrcksn/go-starter-site/pull/20) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 days ago)
+- [Remove the `httprouter` dependency.](https://github.com/rynhndrcksn/go-starter-site/pull/19) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 days ago)
 - [feat: update codebase to use Go 1.24](https://github.com/rynhndrcksn/go-starter-site/pull/18) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (4 months ago)
 
 ## Recent projects
@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 2 weeks ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 3 weeks ago) - The Symfony PHP framework
 
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
