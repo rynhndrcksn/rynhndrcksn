@@ -12,8 +12,8 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Recent pull requests
 
-- [Add `govulncheck` to CI/CD/makefile](https://github.com/rynhndrcksn/go-starter-site/pull/20) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 weeks ago)
-- [Remove the `httprouter` dependency.](https://github.com/rynhndrcksn/go-starter-site/pull/19) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (2 weeks ago)
+- [Add `govulncheck` to CI/CD/makefile](https://github.com/rynhndrcksn/go-starter-site/pull/20) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 weeks ago)
+- [Remove the `httprouter` dependency.](https://github.com/rynhndrcksn/go-starter-site/pull/19) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 weeks ago)
 - [feat: update codebase to use Go 1.24](https://github.com/rynhndrcksn/go-starter-site/pull/18) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (5 months ago)
 
 ## Recent projects
@@ -24,7 +24,6 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2), 5 days ago) - The Symfony PHP framework
 
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
