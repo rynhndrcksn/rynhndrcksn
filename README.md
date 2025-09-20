@@ -20,7 +20,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 - [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers.
 - [rynhndrcksn/advent-of-code](https://github.com/rynhndrcksn/advent-of-code) - Contains all my various advent of code challenges.
-- [rynhndrcksn/portfolio-hono](https://github.com/rynhndrcksn/portfolio-hono) - Portfolio website built in HonoJS.
+- [rynhndrcksn/wc-go](https://github.com/rynhndrcksn/wc-go) - A version of the `wc` CLI tool written in Go.
 
 ## Latest releases I've contributed to
 
