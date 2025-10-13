@@ -8,7 +8,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 - [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (1 week ago)
 - [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (2 weeks ago)
-- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (2 months ago)
+- [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (3 months ago)
 
 ## Recent pull requests
 
