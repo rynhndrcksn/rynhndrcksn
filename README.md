@@ -6,7 +6,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (3 weeks ago)
+- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (1 day ago)
 - [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (3 weeks ago)
 - [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - A launching off point for making your own website using Go. (3 months ago)
 
@@ -14,7 +14,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 - [Add `govulncheck` to CI/CD/makefile](https://github.com/rynhndrcksn/go-starter-site/pull/20) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 months ago)
 - [Remove the `httprouter` dependency.](https://github.com/rynhndrcksn/go-starter-site/pull/19) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (3 months ago)
-- [feat: update codebase to use Go 1.24](https://github.com/rynhndrcksn/go-starter-site/pull/18) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (7 months ago)
+- [feat: update codebase to use Go 1.24](https://github.com/rynhndrcksn/go-starter-site/pull/18) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (8 months ago)
 
 ## Recent projects
 
