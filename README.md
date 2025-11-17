@@ -6,8 +6,8 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (1 week ago)
-- [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go. (2 weeks ago)
+- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (1 day ago)
+- [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go. (3 weeks ago)
 - [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (3 weeks ago)
 
 ## Recent pull requests
@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [maragudk/gomponents](https://github.com/maragudk/gomponents) ([v1.2.0](https://github.com/maragudk/gomponents/releases/tag/v1.2.0), 2 months ago) - HTML components in pure Go.
+- [maragudk/gomponents](https://github.com/maragudk/gomponents) ([v1.2.0](https://github.com/maragudk/gomponents/releases/tag/v1.2.0), 3 months ago) - HTML components in pure Go.
 
 ## Misc
 - [Catppuccin](https://github.com/catppuccin/catppuccin) is the best theme (specifically Mocha). I don't make the rules 🤷‍♂️
