@@ -6,15 +6,15 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (5 days ago)
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (2 weeks ago)
-- [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go. (1 month ago)
+- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (1 day ago)
+- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (1 day ago)
+- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (6 days ago)
 
 ## Recent pull requests
 
+- [Migrate packages to OpenSUSE names](https://github.com/rynhndrcksn/dotfiles/pull/1) in [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - MERGED (today)
 - [Add the output HTML element](https://github.com/maragudk/gomponents/pull/279) in [maragudk/gomponents](https://github.com/maragudk/gomponents) - MERGED (1 month ago)
 - [Add `govulncheck` to CI/CD/makefile](https://github.com/rynhndrcksn/go-starter-site/pull/20) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (4 months ago)
-- [Remove the `httprouter` dependency.](https://github.com/rynhndrcksn/go-starter-site/pull/19) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (4 months ago)
 
 ## Recent projects
 
