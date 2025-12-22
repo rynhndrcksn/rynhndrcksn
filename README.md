@@ -7,8 +7,8 @@ I'm a software engineer that is passionate about open source and creating a welc
 ## What I'm currently working on
 
 - [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (1 day ago)
+- [rynhndrcksn/homelab-cert-generator](https://github.com/rynhndrcksn/homelab-cert-generator) - A simple script that generates a wildcard certificate for homelab usage. (1 day ago)
 - [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (1 week ago)
-- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (2 weeks ago)
 
 ## Recent pull requests
 
@@ -18,9 +18,9 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Recent projects
 
+- [rynhndrcksn/homelab-cert-generator](https://github.com/rynhndrcksn/homelab-cert-generator) - A simple script that generates a wildcard certificate for homelab usage.
 - [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website.
 - [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers.
-- [rynhndrcksn/advent-of-code](https://github.com/rynhndrcksn/advent-of-code) - Contains all my various advent of code challenges.
 
 ## Latest releases I've contributed to
 
