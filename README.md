@@ -6,8 +6,8 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (4 days ago)
-- [rynhndrcksn/homelab-cert-generator](https://github.com/rynhndrcksn/homelab-cert-generator) - A simple script that generates a wildcard certificate for homelab usage. (5 days ago)
+- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (5 days ago)
+- [rynhndrcksn/homelab-cert-generator](https://github.com/rynhndrcksn/homelab-cert-generator) - A simple script that generates a wildcard certificate for homelab usage. (6 days ago)
 - [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (2 weeks ago)
 
 ## Recent pull requests
