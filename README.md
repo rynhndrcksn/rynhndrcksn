@@ -7,12 +7,12 @@ I'm a software engineer that is passionate about open source and creating a welc
 ## What I'm currently working on
 
 - [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (1 day ago)
-- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (4 days ago)
+- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (5 days ago)
 - [rynhndrcksn/homelab-cert-generator](https://github.com/rynhndrcksn/homelab-cert-generator) - A simple script that generates a wildcard certificate for homelab usage. (1 week ago)
 
 ## Recent pull requests
 
-- [Migrate packages to OpenSUSE names](https://github.com/rynhndrcksn/dotfiles/pull/1) in [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - MERGED (4 weeks ago)
+- [Migrate packages to OpenSUSE names](https://github.com/rynhndrcksn/dotfiles/pull/1) in [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - MERGED (1 month ago)
 - [Add the output HTML element](https://github.com/maragudk/gomponents/pull/279) in [maragudk/gomponents](https://github.com/maragudk/gomponents) - MERGED (2 months ago)
 - [Add `govulncheck` to CI/CD/makefile](https://github.com/rynhndrcksn/go-starter-site/pull/20) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (5 months ago)
 
