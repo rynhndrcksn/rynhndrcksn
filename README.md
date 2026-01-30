@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.6.1](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.6.1), 1 week ago) - Repository for my personal website.
+- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.6.1](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.6.1), 2 weeks ago) - Repository for my personal website.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) ([v1.2.0](https://github.com/maragudk/gomponents/releases/tag/v1.2.0), 5 months ago) - HTML components in pure Go.
 
 ## Misc
