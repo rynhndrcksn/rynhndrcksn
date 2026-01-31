@@ -6,9 +6,9 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
+- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (1 day ago)
 - [rynhndrcksn/the-power-of-go-tools](https://github.com/rynhndrcksn/the-power-of-go-tools) - Repository to follow along with [The Power of Go - Tools](https://bitfieldconsulting.com/books/tools) (1 week ago)
 - [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (1 week ago)
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (2 weeks ago)
 
 ## Recent pull requests
 
