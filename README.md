@@ -6,13 +6,13 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (2 days ago)
-- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (5 days ago)
-- [rynhndrcksn/the-power-of-go-tools](https://github.com/rynhndrcksn/the-power-of-go-tools) - Repository to follow along with [The Power of Go - Tools](https://bitfieldconsulting.com/books/tools) (1 week ago)
+- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (3 days ago)
+- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (6 days ago)
+- [rynhndrcksn/the-power-of-go-tools](https://github.com/rynhndrcksn/the-power-of-go-tools) - Repository to follow along with [The Power of Go - Tools](https://bitfieldconsulting.com/books/tools) (2 weeks ago)
 
 ## Recent pull requests
 
-- [Migrate packages to OpenSUSE names](https://github.com/rynhndrcksn/dotfiles/pull/1) in [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - MERGED (1 month ago)
+- [Migrate packages to OpenSUSE names](https://github.com/rynhndrcksn/dotfiles/pull/1) in [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - MERGED (2 months ago)
 - [Add the output HTML element](https://github.com/maragudk/gomponents/pull/279) in [maragudk/gomponents](https://github.com/maragudk/gomponents) - MERGED (3 months ago)
 - [Add `govulncheck` to CI/CD/makefile](https://github.com/rynhndrcksn/go-starter-site/pull/20) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (6 months ago)
 
@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.7.1](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.7.1), 1 day ago) - Repository for my personal website.
+- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.7.1](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.7.1), 2 days ago) - Repository for my personal website.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) ([v1.2.0](https://github.com/maragudk/gomponents/releases/tag/v1.2.0), 5 months ago) - HTML components in pure Go.
 
 ## Misc
