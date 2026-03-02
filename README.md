@@ -6,9 +6,9 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
+- [rynhndrcksn/rwc](https://github.com/rynhndrcksn/rwc) - Rust implementation of `wc`. (1 day ago)
 - [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (1 week ago)
 - [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (1 week ago)
-- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (3 weeks ago)
 
 ## Recent pull requests
 
@@ -18,9 +18,9 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Recent projects
 
+- [rynhndrcksn/rwc](https://github.com/rynhndrcksn/rwc) - Rust implementation of `wc`.
 - [rynhndrcksn/the-power-of-go-tools](https://github.com/rynhndrcksn/the-power-of-go-tools) - Repository to follow along with [The Power of Go - Tools](https://bitfieldconsulting.com/books/tools)
 - [rynhndrcksn/homelab-cert-generator](https://github.com/rynhndrcksn/homelab-cert-generator) - A simple script that generates a wildcard certificate for homelab usage.
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website.
 
 ## Latest releases I've contributed to
 
