@@ -6,9 +6,9 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/rwc](https://github.com/rynhndrcksn/rwc) - Rust implementation of `wc`. (1 day ago)
+- [rynhndrcksn/gwc](https://github.com/rynhndrcksn/gwc) - Go implementation of `wc`. (1 day ago)
+- [rynhndrcksn/rwc](https://github.com/rynhndrcksn/rwc) - Rust implementation of `wc`. (2 days ago)
 - [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (1 week ago)
-- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (1 week ago)
 
 ## Recent pull requests
 
@@ -18,13 +18,13 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Recent projects
 
+- [rynhndrcksn/gwc](https://github.com/rynhndrcksn/gwc) - Go implementation of `wc`.
 - [rynhndrcksn/rwc](https://github.com/rynhndrcksn/rwc) - Rust implementation of `wc`.
 - [rynhndrcksn/the-power-of-go-tools](https://github.com/rynhndrcksn/the-power-of-go-tools) - Repository to follow along with [The Power of Go - Tools](https://bitfieldconsulting.com/books/tools)
-- [rynhndrcksn/homelab-cert-generator](https://github.com/rynhndrcksn/homelab-cert-generator) - A simple script that generates a wildcard certificate for homelab usage.
 
 ## Latest releases I've contributed to
 
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.7.1](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.7.1), 3 weeks ago) - Repository for my personal website.
+- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.7.1](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.7.1), 4 weeks ago) - Repository for my personal website.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) ([v1.2.0](https://github.com/maragudk/gomponents/releases/tag/v1.2.0), 6 months ago) - HTML components in pure Go.
 
 ## Misc
