@@ -6,8 +6,8 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/gwc](https://github.com/rynhndrcksn/gwc) - Go implementation of `wc`. (1 day ago)
-- [rynhndrcksn/rwc](https://github.com/rynhndrcksn/rwc) - Rust implementation of `wc`. (3 days ago)
+- [rynhndrcksn/gwc](https://github.com/rynhndrcksn/gwc) - Go implementation of `wc`. (2 days ago)
+- [rynhndrcksn/rwc](https://github.com/rynhndrcksn/rwc) - Rust implementation of `wc`. (4 days ago)
 - [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (1 week ago)
 
 ## Recent pull requests
@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.7.1](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.7.1), 4 weeks ago) - Repository for my personal website.
+- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.7.1](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.7.1), 1 month ago) - Repository for my personal website.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) ([v1.2.0](https://github.com/maragudk/gomponents/releases/tag/v1.2.0), 6 months ago) - HTML components in pure Go.
 
 ## Misc
