@@ -6,15 +6,15 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (1 day ago)
-- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (1 day ago)
+- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (2 days ago)
+- [rynhndrcksn/ansible-debian-config](https://github.com/rynhndrcksn/ansible-debian-config) - Ansible configuration repo to configure a variety of Debian servers. (2 days ago)
 - [rynhndrcksn/gwc](https://github.com/rynhndrcksn/gwc) - Go implementation of `wc`. (1 week ago)
 
 ## Recent pull requests
 
 - [Migrate packages to OpenSUSE names](https://github.com/rynhndrcksn/dotfiles/pull/1) in [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - MERGED (3 months ago)
 - [Add the output HTML element](https://github.com/maragudk/gomponents/pull/279) in [maragudk/gomponents](https://github.com/maragudk/gomponents) - MERGED (4 months ago)
-- [Add `govulncheck` to CI/CD/makefile](https://github.com/rynhndrcksn/go-starter-site/pull/20) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (7 months ago)
+- [Add `govulncheck` to CI/CD/makefile](https://github.com/rynhndrcksn/go-starter-site/pull/20) in [rynhndrcksn/go-starter-site](https://github.com/rynhndrcksn/go-starter-site) - MERGED (8 months ago)
 
 ## Recent projects
 
@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.7.2](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.7.2), today) - Repository for my personal website.
+- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.7.2](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.7.2), 1 day ago) - Repository for my personal website.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) ([v1.2.0](https://github.com/maragudk/gomponents/releases/tag/v1.2.0), 6 months ago) - HTML components in pure Go.
 
 ## Misc
