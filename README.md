@@ -6,13 +6,13 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (3 days ago)
-- [rynhndrcksn/ansible-config](https://github.com/rynhndrcksn/ansible-config) - Ansible configuration repo to configure a variety of Debian servers. (3 days ago)
+- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (4 days ago)
+- [rynhndrcksn/ansible-config](https://github.com/rynhndrcksn/ansible-config) - Ansible configuration repo to configure a variety of Debian servers. (4 days ago)
 - [rynhndrcksn/gwc](https://github.com/rynhndrcksn/gwc) - Go implementation of `wc`. (2 weeks ago)
 
 ## Recent pull requests
 
-- [feat: add Caddy config files](https://github.com/rynhndrcksn/ryanjh/pull/1) in [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - CLOSED (3 days ago)
+- [feat: add Caddy config files](https://github.com/rynhndrcksn/ryanjh/pull/1) in [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - CLOSED (4 days ago)
 - [Migrate packages to OpenSUSE names](https://github.com/rynhndrcksn/dotfiles/pull/1) in [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - MERGED (3 months ago)
 - [Add the output HTML element](https://github.com/maragudk/gomponents/pull/279) in [maragudk/gomponents](https://github.com/maragudk/gomponents) - MERGED (4 months ago)
 
@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.7.2](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.7.2), 6 days ago) - Repository for my personal website.
+- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.7.2](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.7.2), 1 week ago) - Repository for my personal website.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) ([v1.2.0](https://github.com/maragudk/gomponents/releases/tag/v1.2.0), 7 months ago) - HTML components in pure Go.
 
 ## Misc
