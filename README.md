@@ -8,7 +8,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 - [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (1 week ago)
 - [rynhndrcksn/ansible-config](https://github.com/rynhndrcksn/ansible-config) - Ansible configuration repo to configure a variety of Debian servers. (1 week ago)
-- [rynhndrcksn/gwc](https://github.com/rynhndrcksn/gwc) - Go implementation of `wc`. (2 weeks ago)
+- [rynhndrcksn/gwc](https://github.com/rynhndrcksn/gwc) - Go implementation of `wc`. (3 weeks ago)
 
 ## Recent pull requests
 
