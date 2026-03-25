@@ -14,7 +14,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 - [feat: add Caddy config files](https://github.com/rynhndrcksn/ryanjh/pull/1) in [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - CLOSED (1 week ago)
 - [Migrate packages to OpenSUSE names](https://github.com/rynhndrcksn/dotfiles/pull/1) in [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - MERGED (3 months ago)
-- [Add the output HTML element](https://github.com/maragudk/gomponents/pull/279) in [maragudk/gomponents](https://github.com/maragudk/gomponents) - MERGED (4 months ago)
+- [Add the output HTML element](https://github.com/maragudk/gomponents/pull/279) in [maragudk/gomponents](https://github.com/maragudk/gomponents) - MERGED (5 months ago)
 
 ## Recent projects
 
