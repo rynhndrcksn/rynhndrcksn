@@ -6,9 +6,9 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/ansible-config](https://github.com/rynhndrcksn/ansible-config) - Ansible configuration repo to configure a variety of Debian servers. (2 days ago)
-- [rynhndrcksn/homelab-services](https://github.com/rynhndrcksn/homelab-services) - A collection of Docker Compose &#43; configuration files for the services I have running in my homelab. (2 days ago)
-- [rynhndrcksn/gdu](https://github.com/rynhndrcksn/gdu) - Go implementation of `du`. (4 days ago)
+- [rynhndrcksn/ansible-config](https://github.com/rynhndrcksn/ansible-config) - Ansible configuration repo to configure a variety of Debian servers. (3 days ago)
+- [rynhndrcksn/homelab-services](https://github.com/rynhndrcksn/homelab-services) - A collection of Docker Compose &#43; configuration files for the services I have running in my homelab. (3 days ago)
+- [rynhndrcksn/gdu](https://github.com/rynhndrcksn/gdu) - Go implementation of `du`. (5 days ago)
 
 ## Recent pull requests
 
@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.7.2](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.7.2), 2 weeks ago) - Repository for my personal website.
+- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.7.2](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.7.2), 3 weeks ago) - Repository for my personal website.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) ([v1.2.0](https://github.com/maragudk/gomponents/releases/tag/v1.2.0), 7 months ago) - HTML components in pure Go.
 
 ## Misc
