@@ -7,14 +7,14 @@ I'm a software engineer that is passionate about open source and creating a welc
 ## What I'm currently working on
 
 - [rynhndrcksn/homelab-services](https://github.com/rynhndrcksn/homelab-services) - A collection of Docker Compose &#43; configuration files for the services I have running in my homelab. (1 week ago)
-- [rynhndrcksn/ansible-config](https://github.com/rynhndrcksn/ansible-config) - Ansible configuration repo to configure a variety of Debian servers. (1 week ago)
+- [rynhndrcksn/ansible-config](https://github.com/rynhndrcksn/ansible-config) - Ansible configuration repo to configure a variety of Debian servers. (2 weeks ago)
 - [rynhndrcksn/gdu](https://github.com/rynhndrcksn/gdu) - Go implementation of `du`. (3 weeks ago)
 
 ## Recent pull requests
 
 - [feat: add Caddy config files](https://github.com/rynhndrcksn/ryanjh/pull/1) in [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - CLOSED (1 month ago)
 - [Migrate packages to OpenSUSE names](https://github.com/rynhndrcksn/dotfiles/pull/1) in [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - MERGED (4 months ago)
-- [Add the output HTML element](https://github.com/maragudk/gomponents/pull/279) in [maragudk/gomponents](https://github.com/maragudk/gomponents) - MERGED (5 months ago)
+- [Add the output HTML element](https://github.com/maragudk/gomponents/pull/279) in [maragudk/gomponents](https://github.com/maragudk/gomponents) - MERGED (6 months ago)
 
 ## Recent projects
 
