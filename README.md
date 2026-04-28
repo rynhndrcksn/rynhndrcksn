@@ -24,7 +24,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Latest releases I've contributed to
 
-- [maragudk/gomponents](https://github.com/maragudk/gomponents) ([v1.3.0](https://github.com/maragudk/gomponents/releases/tag/v1.3.0), 1 week ago) - HTML components in pure Go.
+- [maragudk/gomponents](https://github.com/maragudk/gomponents) ([v1.3.0](https://github.com/maragudk/gomponents/releases/tag/v1.3.0), 2 weeks ago) - HTML components in pure Go.
 - [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) ([v1.7.2](https://github.com/rynhndrcksn/ryanjh/releases/tag/v1.7.2), 1 month ago) - Repository for my personal website.
 
 ## Misc
