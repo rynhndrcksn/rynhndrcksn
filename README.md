@@ -6,9 +6,9 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/homelab-services](https://github.com/rynhndrcksn/homelab-services) - A collection of Docker Compose &#43; configuration files for the services I have running in my homelab. (2 weeks ago)
-- [rynhndrcksn/ansible-config](https://github.com/rynhndrcksn/ansible-config) - Ansible configuration repo to configure a variety of Debian servers. (2 weeks ago)
-- [rynhndrcksn/gdu](https://github.com/rynhndrcksn/gdu) - Go implementation of `du`. (1 month ago)
+- [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (1 day ago)
+- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (1 day ago)
+- [rynhndrcksn/gopher-getter](https://github.com/rynhndrcksn/gopher-getter) - A bash script to get the most recent version of Golang. (1 day ago)
 
 ## Recent pull requests
 
@@ -18,9 +18,9 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Recent projects
 
+- [rynhndrcksn/gopher-getter](https://github.com/rynhndrcksn/gopher-getter) - A bash script to get the most recent version of Golang.
 - [rynhndrcksn/homelab-services](https://github.com/rynhndrcksn/homelab-services) - A collection of Docker Compose &#43; configuration files for the services I have running in my homelab.
 - [rynhndrcksn/gdu](https://github.com/rynhndrcksn/gdu) - Go implementation of `du`.
-- [rynhndrcksn/gwc](https://github.com/rynhndrcksn/gwc) - Go implementation of `wc`.
 
 ## Latest releases I've contributed to
 
