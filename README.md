@@ -6,9 +6,9 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (1 day ago)
-- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (1 day ago)
-- [rynhndrcksn/gopher-getter](https://github.com/rynhndrcksn/gopher-getter) - A bash script to get the most recent version of Golang. (1 day ago)
+- [rynhndrcksn/dotfiles-macos](https://github.com/rynhndrcksn/dotfiles-macos) - $HOME sweet $HOME (2 days ago)
+- [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (2 days ago)
+- [rynhndrcksn/gopher-getter](https://github.com/rynhndrcksn/gopher-getter) - A bash script to get the most recent version of Golang. (2 days ago)
 
 ## Recent pull requests
 
