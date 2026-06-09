@@ -12,7 +12,7 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## Recent pull requests
 
-- [feat: migrate to Zola](https://github.com/rynhndrcksn/ryanjh/pull/2) in [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - MERGED (1 day ago)
+- [feat: migrate to Zola](https://github.com/rynhndrcksn/ryanjh/pull/2) in [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - MERGED (2 days ago)
 - [feat: add Caddy config files](https://github.com/rynhndrcksn/ryanjh/pull/1) in [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - CLOSED (2 months ago)
 - [Migrate packages to OpenSUSE names](https://github.com/rynhndrcksn/dotfiles/pull/1) in [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - MERGED (6 months ago)
 
