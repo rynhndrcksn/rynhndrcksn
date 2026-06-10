@@ -6,13 +6,13 @@ I'm a software engineer that is passionate about open source and creating a welc
 
 ## What I'm currently working on
 
-- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (1 day ago)
+- [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - Repository for my personal website. (2 days ago)
 - [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - There&#39;s no place like $HOME. (1 week ago)
 - [rynhndrcksn/ansible-config](https://github.com/rynhndrcksn/ansible-config) - Ansible configuration repo to configure a variety of Debian servers. (2 weeks ago)
 
 ## Recent pull requests
 
-- [feat: migrate to Zola](https://github.com/rynhndrcksn/ryanjh/pull/2) in [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - MERGED (2 days ago)
+- [feat: migrate to Zola](https://github.com/rynhndrcksn/ryanjh/pull/2) in [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - MERGED (3 days ago)
 - [feat: add Caddy config files](https://github.com/rynhndrcksn/ryanjh/pull/1) in [rynhndrcksn/ryanjh](https://github.com/rynhndrcksn/ryanjh) - CLOSED (2 months ago)
 - [Migrate packages to OpenSUSE names](https://github.com/rynhndrcksn/dotfiles/pull/1) in [rynhndrcksn/dotfiles](https://github.com/rynhndrcksn/dotfiles) - MERGED (6 months ago)
 
